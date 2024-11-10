@@ -1,0 +1,98 @@
+body {
+    background-color: #F4F3FF;
+    color: #000000;
+    font-family: "Jost";
+}
+
+header {
+    display: flex;
+    position: sticky;
+    height: 40px;
+}
+
+nav {
+    padding: 4px 0px;
+}
+
+.box {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+}
+
+#TituloPrincipal {
+    text-align: center;
+    font-size: x-large;
+
+}
+
+#icones {
+    text-align: end;
+    padding: 4px 0px;
+}
+
+a.navegacao {
+    text-decoration: none;
+    color: #000000;
+    padding: 0px 5px;
+}
+
+a.navegacao:hover {
+    border-bottom: 1px solid #000000;
+}
+
+#imagem {
+    background-image: url(https://images.unsplash.com/photo-1607799279861-4dd421887fb3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZ3JhbWElQzMlQTclQzMlQTNvfGVufDB8fDB8fHww);
+    background-size: cover;
+    height: 300px;
+    
+}
+
+#TituloPagina{
+    font-family: "Archivo Black", sans-serif;
+    color: #F4F3FF;
+    text-align: left;
+    font-size: 50px ;
+    padding: 100px 30px;
+}
+
+#Selecao1 {
+    background-color: #171940;
+    height: 100px;
+}
+
+#PrimeiroTexto{
+    color: #F4F3FF;
+    padding: 34px 20px;
+}
+
+.box1{
+    float: left;
+    width: 49%;
+    padding: 5px;
+}
+
+#habilidades{
+    font-family: "Archivo Black", sans-serif;
+    font-size: 40px;
+    padding: 0px 20px;
+    padding-top: 80px;
+}
+
+#habilidadesConteudo{
+    padding: 0px 20px;
+    padding-top: 10px;
+}
+
+#habilidadeslista{
+    padding-top: 40px;
+    
+    font-size: 20px;
+}
+
+.habilidadeslista{
+    padding: 5px 0px;
+}
+
+
+
