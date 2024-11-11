@@ -33,12 +33,17 @@ nav {
 
 a.navegacao {
     text-decoration: none;
-    color: #000000;
+    color: #484646;
     padding: 0px 5px;
 }
 
 a.navegacao:hover {
+    color: #000000;
     border-bottom: 1px solid #000000;
+}
+
+a.navegacao:active{
+    color: #000000;
 }
 
 #imagem {
